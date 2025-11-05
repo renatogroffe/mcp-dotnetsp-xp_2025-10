@@ -25,6 +25,16 @@ Tecnologias e tópicos abordados: **MCP, .NET, C#, ASP.NET Core, NuGet, GitHub C
 
 Número de participantes: **21 pessoas**
 
-Deixo aqui meus agradecimentos ao amigo **Felipe Leitão** por todo o apoio para que participássemos deste evento interno da [**XP Inc.**](https://www.linkedin.com/company/xpinc/?originalSubdomain=br).
+Deixo aqui meus agradecimentos ao amigo **Felipe Leitão** por todo o apoio para que participássemos deste evento interno da [**XP Inc.**](https://www.linkedin.com/company/xpinc/?originalSubdomain=br)
 
 ---
+
+![Audiência](img/audiencia.png)
+
+![Renato e Milton palestrando 1](img/mcp-01.png)
+
+![Renato e Milton palestrando 2](img/mcp-02.png)
+
+![Renato e Milton palestrando 3](img/mcp-03.png)
+
+![Renato e Milton palestrando 4](img/mcp-04.png)
