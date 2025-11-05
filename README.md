@@ -21,7 +21,7 @@ Tipo do evento: **Online**
 
 Ferramenta de transmissão: **Microsoft Teams**
 
-Tecnologias e tópicos abordados: **MCP, .NET, C#, ASP.NET Core, NuGet, GitHub Copilot, Visual Studio Code, Inteligência Artificial, LLMs, Containers, Docker, Docker Hub, Docker MCP Hub, Windows, Linux, macOS, Claude, SQL Server, PostgreSQL, Mermaid...**
+Tecnologias e tópicos abordados: **MCP, .NET, C#, ASP.NET Core, NuGet, GitHub Copilot, Visual Studio Code, Inteligência Artificial, LLMs, Containers, Docker, Docker Hub, Docker MCP Hub, Windows, Linux, macOS, Claude, SQL Server, PostgreSQL...**
 
 Número de participantes: **21 pessoas**
 
